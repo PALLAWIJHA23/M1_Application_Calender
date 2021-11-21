@@ -22,6 +22,7 @@ we use calenders for keeping track of upcoming events,meetings, deadliness. so i
 Calender basically made for a year ,a year is defined the amount of time taken for the earth to orbit the sun one time. it takes 365 days to do that.
 
 ##SWOT Analysis:-
+
 ####STRENGTHS
 1. Saves times
 2. Automatic shows the important meeting, events
