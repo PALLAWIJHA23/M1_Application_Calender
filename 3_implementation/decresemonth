@@ -1,1 +1,11 @@
-
+void decrease_month(int *mm,  int *yy){ //decrease the month by one
+    --*mm;
+    if(*mm &lt; 1){
+        --*yy;
+        if(*yy&lt;1600){
+            printf("No record available");
+            return;
+        }
+        *mm = *mm + 12;
+    }
+}
