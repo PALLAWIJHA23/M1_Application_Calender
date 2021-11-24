@@ -46,11 +46,17 @@ Other similar application
 
 ##Low Level Requirements:-
 ###|LLR HLR_1| Discription|
-|LLR_1 HLR_1| get data from standard input|
-|LLR_2 HLR_1| compute data by doing appropriate operations|
+
+|LLR_1 HLR_1| get data from standard input
+|
+|LLR_2 HLR_1| compute data by doing appropriate operations
+|
 |LLR_3 HLR_1| show the output in days|
 
+
 ###|LLR HLR_2| Discription|
+
 |LLR_1 HLR_2| set the data according to their importance|
+
 |LLR_2 HLR_2| get the final important date|
 
