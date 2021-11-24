@@ -41,16 +41,19 @@ Other similar application
 ##High Level Requirements:-
 
 |HR_1| App will able to display multiple calenders|
+
 |HR_2| APP will ask to display diffrent modules/vacation/non vacation|
+
 |HR_3| Turning off alternate timezone|
 
 ##Low Level Requirements:-
+
 ###|LLR HLR_1| Discription|
 
-|LLR_1 HLR_1| get data from standard input
-|
-|LLR_2 HLR_1| compute data by doing appropriate operations
-|
+|LLR_1 HLR_1| get data from standard input|
+
+|LLR_2 HLR_1| compute data by doing appropriate operations|
+
 |LLR_3 HLR_1| show the output in days|
 
 
