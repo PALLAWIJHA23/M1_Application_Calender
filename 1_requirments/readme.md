@@ -32,7 +32,25 @@ Calender basically made for a year ,a year is defined the amount of time taken f
 1. Data corruption is possible , alternating or even deleting events.
 
 ####OPPORTUNITIES
+
 1.Can be used at any type of places.
 
 ####THREATS
 Other similar application
+
+##High Level Requirements:-
+
+|HR_1| App will able to display multiple calenders|
+|HR_2| APP will ask to display diffrent modules/vacation/non vacation|
+|HR_3| Turning off alternate timezone|
+
+##Low Level Requirements:-
+###|LLR HLR_1| Discription|
+|LLR_1 HLR_1| get data from standard input|
+|LLR_2 HLR_1| compute data by doing appropriate operations|
+|LLR_3 HLR_1| show the output in days|
+
+###|LLR HLR_2| Discription|
+|LLR_1 HLR_2| set the data according to their importance|
+|LLR_2 HLR_2| get the final important date|
+
