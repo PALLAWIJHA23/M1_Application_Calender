@@ -12,15 +12,19 @@ This project on calendar in C programming langauge is a console application with
 
 ##Folder Structure 
 |###folder|  ### Discription|
-|1.Requirements| Documents detailing requirements and research|
-|2.Design| Documents specifying design details|
-|3.Implementation| All code and implementation|
-|4.Test plan| Documents with test plans and procedures|
 
+|1.Requirements| Documents detailing requirements and research|
+
+|2.Design| Documents specifying design details|
+
+|3.Implementation| All code and implementation|
+
+|4.Test plan| Documents with test plans and procedures|
 
 
 
 ## Challenges Faced and How Was it Overcome 
  
  ###NO. | ### Challenge| ### Solution|
+ 
  |1.| Program crashes | writing clean code with allocating and dellocating memory at all functions as per requirement| 
