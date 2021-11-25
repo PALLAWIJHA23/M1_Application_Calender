@@ -2,15 +2,14 @@
 
 ###Features
 1. We can quickly schedule meetings and events and get remainders about upcoming activites.
-2. It can help us to visualize the impotant holidays and vacation time.
+2. It can help us to visualize the impotant holidays and vacation time and working days'
 3. it plays an important role in our daily work to help us stay on task as well as be productive and prioritize.
-
-##Start of art
-###yet to done
+4. It will print out leap year.
+5. It will also print the desired year.
 
 ##4W and 1H
 ###WHAT:-
-A calender is a system of organizing days. This is done by giving names to periods of time , typically days ,weeks, months and years. It is a chart or device which displays the date and the week.A date is the designation of a single , specific day within such a system.
+A calender is a system of organizing days. This is done by giving names to periods of time , typically days ,weeks, months and years. It is a chart or device which displays the date and the week.A date is the designation of a single , specific day within such a system. it print out leap year.
 
 ###WHY:-
 The basic need of a calender is to keep a track of the present day, month and year. basically identify the particular time in which we are living and existing.
